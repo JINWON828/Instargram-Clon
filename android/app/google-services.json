@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119663445761",
+    "firebase_url": "https://instargram-clon-1d602.firebaseio.com",
+    "project_id": "instargram-clon-1d602",
+    "storage_bucket": "instargram-clon-1d602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119663445761:android:9fb1ff7c128be14ebd7d00",
+        "android_client_info": {
+          "package_name": "com.jinwon.flutter_instagram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119663445761-0hu8sh4t904b5qipdedmaptmktd5885t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8A5nBl0MLZXPl1nrcXmytxXUe0LSyI9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119663445761-0hu8sh4t904b5qipdedmaptmktd5885t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
